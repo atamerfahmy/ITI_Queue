@@ -14,8 +14,8 @@ if __name__ == '__main__':
     queue22.insert(6)
     queue22.insert(2)
     # queue.pop()
-    # print(queue.is_empty())
+    print(queue)
     # print(queue.is_empty())
 
-    print(UpdatedQueue.get_queue("queue1"))
+    print(UpdatedQueue.get_queue("queue2"))
     # print(queue)
